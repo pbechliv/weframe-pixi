@@ -1,0 +1,21 @@
+{"frames": {
+
+"note-white.png":
+{
+	"frame": {"x":0,"y":0,"w":292,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":292,"h":280},
+	"sourceSize": {"w":292,"h":280},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "weframe.png",
+	"format": "RGBA8888",
+	"size": {"w":292,"h":280},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f7717d9ed12cd4c5ee56e3e16edddba9:6b19101c3afff05c28c8df6aead2c035:550b8e2f144129531ef2ee5c0bdf4c8f$"
+}
+}
